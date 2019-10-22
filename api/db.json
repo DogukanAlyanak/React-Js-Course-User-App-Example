@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Doğukan ALYANAK",
+      "salary": "9000",
+      "department": "IT",
+      "id": "1"
+    },
+    {
+      "name": "Mustafa COŞKUN",
+      "salary": "3000",
+      "department": "SENIOR IT",
+      "id": "2"
+    },
+    {
+      "name": "Alp ERGİN",
+      "salary": "17000",
+      "department": "HUKUK",
+      "id": "cboovEL"
+    },
+    {
+      "name": "Aybüke ORAN",
+      "salary": "17000",
+      "department": "HUKUK",
+      "id": "KbAktZK"
+    },
+    {
+      "name": "Zeynep ALYANAK",
+      "salary": "5500",
+      "department": "DESIGN",
+      "id": "_ldENtq"
+    },
+    {
+      "name": "Yağmur VAROL",
+      "salary": "5000",
+      "department": "MÜHENDİS",
+      "id": "gX1aJ0E"
+    }
+  ]
+}

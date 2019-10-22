@@ -1,0 +1,61 @@
+console
+    npm install -g create-react-app     // React.Js için gerekli dosyaları indir.
+    create-react-app reactAppName       // React.js proje dosyalarını oluştur.
+    npm run start                       // projeyi çalıştır.
+    npm run build                       // servera atmak için
+
+React.Js ile ilgili
+
+Class = ClassName                                       // genel class mantığı ClassName olarak çalışıyor
+<div><h4>{"murat".toUppercase()}</h4></div>             // Javascipt içinde kullanamk (Div içinde)
+<h4 style = {{color:"red",fontSize:"30px"}}>App Components</h4>         // syle bu şekilde yazılıyor.
+
+
+/*
+
+{
+    isAuth ? "True ise burayı yaz"
+    : "Değilse burayı yaz"
+}
+
+*/            // Javascipt te yapılabiliyor böyle
+
+
+
+// Destruting Javascript
+/*
+
+const {name, department,salary} = this.props;
+
+ // üstteki alltaki aynı
+
+let name = this.props.name
+let department = this.props.department
+let salary = this.props.salary
+
+*/
+
+////////////////////////////////////
+
+
+
+icon olarak "fontawesome" 
+dev.to/context  washingtonsteven * 
+
+provider            // sağlayan
+consumer            // tüketici
+
+constractor         // yapı 
+
+
+... (üç nokta) Split operatörüdür // ES6 özelliği
+
+
+rcc // hazır react component yapısı
+
+
+npm i -g json-server                               //  localde json database server canlandırıcı yükleme komutu
+json-server --watch api/db.json --port 3004        //  localde json database server canlandırma komutu
+
+
+npm i axios                                        //   database json bağlama kütüphanesi
